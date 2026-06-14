@@ -1,0 +1,27 @@
+# OCaml generated files
+*.cmi
+*.cmo
+*.cmx
+*.o
+*.a
+*.annot
+
+# Generated assembly and build artifacts
+build/
+*.lst
+*.objdump
+*_objdump.ps
+*_objdump.pdf
+
+# Executables
+*.exe
+
+# Local/editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Local backups
+backup/
+backup.old/
