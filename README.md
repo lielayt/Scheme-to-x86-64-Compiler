@@ -13,7 +13,6 @@ the code generator.
 - `compile.ml` - command-line entry point for compiling Scheme files.
 - `makefile` - NASM/GCC build rules for generated assembly.
 - `examples/` - small input programs.
-- `NOTICE.md` - attribution and publishing note.
 
 ## Prerequisites
 
