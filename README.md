@@ -52,12 +52,4 @@ The compiler can also be loaded from the OCaml toplevel:
 #use "compiler.ml";;
 Code_Generation.compile_scheme_file "examples/hello.scm" "build/hello.asm";;
 ```
-
-## Notes
-
-The generated assembly depends on the runtime files in this repository, so run
-the compiler from the repository root.
-
-Before publishing publicly, confirm that you have permission to publish all
-course/reference material included here and add the appropriate license. See
-`NOTICE.md`.
+TICE.md`.
