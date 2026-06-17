@@ -52,4 +52,3 @@ The compiler can also be loaded from the OCaml toplevel:
 #use "compiler.ml";;
 Code_Generation.compile_scheme_file "examples/hello.scm" "build/hello.asm";;
 ```
-TICE.md`.
